@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Hybrid Based (Implicit) Recommender System",
+    "description": "It is ecommerce based recommendation engine built on operational data one of the ecommerce application. It uses the hybrid approach to recommend products. Hybrid approach combines both attribute of user, items to solve the problem of cold start and data sparsity. User attributes: Age, Gender and Items attributes: Price, Brand, Category has been considered along with interaction's purchase, click, wishlist to built model.\n\n Two packages:Implicit, Lightfm are available to work on implicit based recommender system. Implicit doesn't consider the features of item and users unlike lightfm. Implicit is used as baseline package to measure performance of model",
+    "image": "media/recommender_system.png",
+    "technologies": "Lightfm, Implicit, Flask, Streamlit, Postgresql, Heroku",
+    "github": "https://github.com/khadkarajesh/recommender-system",
+    "website": "https://share.streamlit.io/khadkarajesh/recommender-system"
+  },
+  {
+    "name": "Wine Prediction",
+    "description": "This is wine classification problem which classifies whether wine is red or white. Main aim of this project was to industrialize the machine learning application. Project consist the ML model training and data ingestion pipeline along with data drift simulation.",
+    "image": "media/wine_prediction.png",
+    "technologies": "Flask, Postgresql, Airflow, Evidently, Scikit-learn",
+    "github": "https://github.com/khadkarajesh/wine-prediction",
+    "website": "https://github.com/khadkarajesh/wine-prediction"
+  }
+]
