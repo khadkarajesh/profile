@@ -14,5 +14,13 @@
     "technologies": "Flask, Postgresql, Airflow, Evidently, Scikit-learn",
     "github": "https://github.com/khadkarajesh/wine-prediction",
     "website": "https://github.com/khadkarajesh/wine-prediction"
+  },
+  {
+    "name": "Stackoverflow Survey",
+    "description": "This application is built to explore the dash framework for data science application. Different graphs are plotted by using stackoverflow 2021 survey data.",
+    "image": "media/stackoverflow_survey.png",
+    "technologies": "Dash, Plotly, Heroku",
+    "github": "https://github.com/khadkarajesh/stackoverflow-survey",
+    "website": "https://stackoverflow-survey.herokuapp.com/"
   }
 ]
