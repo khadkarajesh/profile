@@ -22,5 +22,13 @@
     "technologies": "Dash, Plotly, Heroku",
     "github": "https://github.com/khadkarajesh/stackoverflow-survey",
     "website": "https://stackoverflow-survey.herokuapp.com/"
+  },
+  {
+    "name": "LazyHR",
+    "description": "Application utilizes the concept of NLP to compute the similarity between resume and job description. Hugging Face model are used to compute the similarity and summarization.",
+    "image": "media/placeholder.jpeg",
+    "technologies": "Streamlit, HuggingFace, NLP,Heroku",
+    "github": "https://github.com/khadkarajesh/lazyhr",
+    "website": "https://github.com/khadkarajesh/lazyhr"
   }
 ]
